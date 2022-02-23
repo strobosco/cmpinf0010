@@ -4,7 +4,7 @@
 
 - Niccolo Nobili | NIN49
 - Maximus Hayes | MCH103
-- Emmet Hulster-Morris | XXX
+- Emmet Hulster-Morris | EMH163
 
 ## Our program
 
