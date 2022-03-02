@@ -14,11 +14,16 @@ _As a group, your job is to make a simple program for class! Make a Jupyter note
 - _It does Something™ with this other input_
 
 ## Use
-Our program will be a number guessing game. The user will input 2 numbers, the first is the range (0 to n) where the user will try to guess. The second number will be the players guess.
+
+Our program generates a random number between 0 and n, an integer inputted from the user. The user will then continually guess for the random number until their guess correctly matches the random number. Once the guess is correct, an output is produced revealing the random number and the amount of guesses the user took.
 
 ## Installation
 
-If your machine allows you to use Jupyter you can run the program from `script.ipynb` otherwise you may use Python to run the program using `script.py`.
+If your machine allows you to use Jupyter you can run the program from `script.ipynb` otherwise you may use Python to run the program using `script.py`. Requires Python 3.7+.
+
+## Contributing
+
+If you want to contribute to this project please open a pull request and add one of our collaborators as reviewers.
 
 ## License 
 
